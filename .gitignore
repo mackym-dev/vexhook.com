@@ -1,0 +1,8 @@
+# Internal - never publish to the public Pages repo
+.claude/
+assets/logo-concepts/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.log
